@@ -1,0 +1,42 @@
+.review{
+	display: inline-block;
+	align-items: center;
+	padding-left: 20px;
+}
+.review_block{
+	display: inline-block; width: 90%; vertical-align: top;
+}
+.review_block>h3{
+	display: block;
+	border-bottom: solid 2px darkgrey;
+}
+.review_block>h3>a:link{
+	color: #ffffff;
+	text-decoration: none;
+}
+.review_block>h3>a:visited{
+	color: #ffffff;
+	text-decoration: none;
+}
+.review_block>h3>a:hover{
+	color: #ffffff;
+	text-decoration: underline;
+}
+.review_block>h3>a:active{
+	color: grey;
+}
+.review_block>h5>a:link{
+	color: #ffffff;
+	text-decoration: none;
+}
+.review_block>h5>a:visited{
+	color: #ffffff;
+	text-decoration: none;
+}
+.review_block>h5>a:hover{
+	color: #ffffff;
+	text-decoration: underline;
+}
+.review_block>h5>a:link{
+	color: grey;
+}
