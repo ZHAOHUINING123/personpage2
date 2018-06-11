@@ -37,6 +37,6 @@
 	color: #ffffff;
 	text-decoration: underline;
 }
-.review_block>h5>a:link{
+.review_block>h5>a:active{
 	color: grey;
 }
