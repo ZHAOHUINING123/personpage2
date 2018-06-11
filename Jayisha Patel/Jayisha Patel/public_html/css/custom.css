@@ -442,3 +442,11 @@ input:focus, textarea:focus {
 .review_block>h5>a:active{
 	color: grey;
 }
+
+
+#myCarousel{
+	/*width: 40%;*/
+	/*position: absolute;*/
+	/*left: 55%;*/
+
+}
